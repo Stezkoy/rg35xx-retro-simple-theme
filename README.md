@@ -1,6 +1,6 @@
 # Описание
 
-Тема основана на ATC Simple для Koriki Anbernic RG35XX\
+Тема основана на ATC Simple для Koriki Anbernic RG35XX   
 
 ![Прогресс](https://progress-bar.dev/99/?title=Готово)
 
